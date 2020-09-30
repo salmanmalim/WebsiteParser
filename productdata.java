@@ -25,7 +25,7 @@ public class productdata {
 		RegularPrice = price;
 		Imgsrc = imgsrc;
 		ImgFileLocation = imgloc;
-		# Bro you can add more it will be nice to see
+		# Bro you can add more it will be nice to see.
 	}
 	
 	
